@@ -79,7 +79,6 @@ button {
         max-width: 1158px;
     }
 }
-/* Header */
 .nav-menu {
     display: flex;
     align-items: center;
@@ -211,10 +210,6 @@ button {
 
 }
 
-/* Header */
-
-/* Hero Section */
-
 .section {
     padding: 96px 0;
 }
@@ -257,7 +252,6 @@ button {
 .hero-section .container {
     margin: 0 auto;
     padding: 0 52px;
-    /* max-width: 757px; */
 }
 
 .button-hero {
@@ -300,8 +294,6 @@ button {
     .hero-section .container {
         margin: 0 auto;
         padding: 0 136px;
-        /* padding: 0 52px; */
-        /* max-width: 757px; */
     }
 
     .button-hero {
@@ -383,10 +375,6 @@ button {
         url(../images/desktop_bg@2x.jpg);
     }
 }
-/* Hero Section */
-
-
-/* Values of Company */
 
 .visually-hidden {
     position: absolute;
@@ -496,10 +484,6 @@ button {
 
     }
 }
-
-/* Values of Company */
-
-/* Our team */
 
 .team-section .container {
     padding: 0 28px;
@@ -619,9 +603,7 @@ button {
     }
 }
 
-/* Our team */
 
-/* Our Portfolio */
 
 .list-our-portfolio {
     display: flex;
@@ -726,9 +708,6 @@ button {
     }
 
 }
-/* Our Portfolio */
-
-/* Footer */
 
 .footer {
     background-color: #2E2F42;
@@ -956,10 +935,8 @@ footer .container {
 }
 
 
-/* Footer */
 
 
-/* Modal window */
 .modal-overlay {
     position: fixed;
     top: 0;
@@ -1246,10 +1223,6 @@ footer .container {
     }
 
 }
-
-/* Modal window */
-
-/* Modal Menu */
 
 .modal-burger-menu-mobile {
     position: fixed;
